@@ -1,5 +1,11 @@
 # golgi-polarization
 
+## Software Dependencies
+- scikit-image version: 0.13.0
+- scipy version: 0.19.1
+- matplotlib version: 2.1.0
+- pandas 
+
 ## Plan of attack
 
 1. Import tiff stacks into Python
@@ -31,14 +37,14 @@
 5. Export data
     - Convert to a pandas DataFrame
     - Save as csv
+6. Preprocess data
+    - Look at distributions for area/perimeter
+        - Remove outliers
 
 
-### Dependencies
-- scikit-image version: 0.13.0
-- scipy version: 0.19.1
-- matplotlib version: 2.1.0
 
 
+---------------------------------------
 
 Microscope: 
 
