@@ -5,6 +5,7 @@
 - scipy version: 0.19.1
 - matplotlib version: 2.1.0
 - pandas 
+- statsmodels 0.8.0
 
 ## Plan of attack
 
